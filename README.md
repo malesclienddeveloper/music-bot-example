@@ -14,11 +14,12 @@
   2. Put bot token and youtube API key in `.env`
   3. Put bot prefix and bot owner id in `config.json`
   4. Type this in the console: `$ npm i`
-  5. Then, turn the bot on by typing this in the console: `$ node .`
+  5. Then, turn the bot on by typing this in the console: `$ npm start`
   
 # Contact Us
  [Discord](https://clientdev.glitch.me/discord)
  
 # Support Us
  [Saweria](https://clientdev.glitch.me/donate/saweria)
+ 
  [Trakteer](https://clientdev.glitch.me/donate/trakteer)
