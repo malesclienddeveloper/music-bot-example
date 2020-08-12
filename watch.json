@@ -7,4 +7,4 @@
     "include": ["\\.js$", "\\.json", "\\.html", "\\.txt"]
   }, 
   "throttle": 8640000 
-}                                                           
+}                      
