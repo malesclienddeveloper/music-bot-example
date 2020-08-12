@@ -1,7 +1,7 @@
 {
   "name": "music-bot-example",
   "version": "1.0.0",
-  "description": ".",
+  "description": "A Music Discord Bot example written in Javascript using Discord.js library.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -34,12 +34,11 @@
     "node": "12.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
+    "url": "https://github.com/Client-Developer-ID/music-bot-example/"
   },
-  "license": "MIT",
   "keywords": [
-    "node",
-    "glitch",
-    "express"
+    "discord.js",
+    "discord bot",
+    "music bot"
   ]
 }
