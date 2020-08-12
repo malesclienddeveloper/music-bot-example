@@ -20,6 +20,6 @@
  [Discord](https://clientdev.glitch.me/discord)
  
 # Support Us
- [Saweria](https://clientdev.glitch.me/donate/saweria)
- 
- [Trakteer](https://clientdev.glitch.me/donate/trakteer)
+[Saweria](https://clientdev.glitch.me/donate/saweria)
+
+[Trakteer](https://clientdev.glitch.me/donate/trakteer)
