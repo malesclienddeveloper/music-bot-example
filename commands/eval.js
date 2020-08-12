@@ -14,7 +14,7 @@ module.exports = {
   
   const { args, flags } = parseQuery(query);
   try {
-    if(!ownerID.includes(message.author.id)) return message.channel.send('Only bot developer can use this');
+    if(!ownerID.includes(message.author.id)) return message.channel.send('Only bot owner can use this');
     
     if (!args.length) {
       throw new TypeError(`Try ${module.exports.usage}`);

@@ -10,7 +10,7 @@ module.exports = {
   usage:"play <song name> / play <song url>",
   run: async(client, msg, args) => {
     const { channel } = msg.member.voice;
-     if(!args.length) return msg.reply(`No argument submitted. Try ${module.exports.usage}`)
+     if(!args.length) return msg.reply(`No argument submitted. Try ${client.prefix}${module.exports.usage}`)
      if (!channel) return msg.reply("You need to join a voice channel first!").catch(console.error);
 
     const permissions = channel.permissionsFor(client.user);

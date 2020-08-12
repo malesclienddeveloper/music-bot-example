@@ -8,12 +8,13 @@ module.exports = {
   name: "playlist",
   alias:["pl"],
   description: "Play a playlist from youtube",
+  usage:"playlist <playlist url> / playlist <playlist name>",
   run: async(client, message, args) => {
     const { channel } = message.member.voice;
 
     if (!args.length)
       return message
-        .reply(`Usage: playlist <YouTube Playlist URL | Playlist Name>`)
+        .reply(`No argument submitted, Try ${client.prefix}${module.exports.usage}`)
         .catch(console.error);
     if (!channel) return message.reply("You need to join a voice channel first!").catch(console.error);
 
