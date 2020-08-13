@@ -8,6 +8,7 @@
   
   Contributors:
   - @everyone for supporting Client Developer
+  - [@KagChi](https://github.com/KagChi/)
   
 # Setup
   1. Clone this repository
