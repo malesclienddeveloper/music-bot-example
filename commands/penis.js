@@ -12,7 +12,7 @@ module.exports = {
    let m = await message.channel.send(`Menebak panjang penis si ${user.username} ...`);
    setTimeout(() => {
     m.delete();
-    message.channel.send(`${num < 12 ? "😆" : "😍"} **Penis si {user.toString()} sepanjang :**\n\`\`\`${panjang_kontol}\`\`\``);
+    message.channel.send(`${num < 12 ? "😆" : "😍"} **Penis si ${user.toString()} sepanjang :**\n\`\`\`${panjang_kontol}\`\`\``);
    }, 3000);
  }
 };
