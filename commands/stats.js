@@ -6,8 +6,8 @@ module.exports = {
   description: "Display bot stats",
   run: async (client, message) => {
     const serverQueue = client.queue.get(message.guild.id);
-    let status = ''
-    let lup = ''
+    let status;
+    let lup;
     const mbed = new MessageEmbed()
     .setTitle(`${client.user.username} music stats`)
     .setFooter("© Client Developer 2020")
