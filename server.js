@@ -7,7 +7,7 @@
 
 const discord = require("discord.js");
 const client = new discord.Client({disableMentions:"everyone"})
-const db = require("quick.db")
+const db = new Map()
 const fs = require("fs")
 
 const { prefix } = require("./config.json")
