@@ -18,6 +18,8 @@
   4. Type this in the console: `$ npm i`
   5. Then, turn the bot on by typing this in the console: `$ npm start`
   
+  [Youtube Video](https://youtu.be/rigmqMtWfzM)
+  
 # Contact Us
  [Discord](https://clientdev.glitch.me/discord)
  
