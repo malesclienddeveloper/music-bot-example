@@ -2,9 +2,9 @@
   **A Music Discord Bot example written in javascript using discord.js**
   
   Made with ♥ by Client Developer staff: 
-  - Staff No.1 -> rayhantech
-  - Staff No.2 -> rnggadosen._
-  - Staff No.6 -> Med
+  - Staff #1 -> [rayhantech](https://github.com/rayhantech)
+  - Staff #2 -> [rnggadosen._](https://github.com/RanggaGultom)
+  - Staff #6 -> [Med](https://github.com/Mednoob)
   
   Contributors:
   - @everyone for supporting Client Developer
