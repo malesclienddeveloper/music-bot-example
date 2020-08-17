@@ -1,4 +1,7 @@
 # Music Bot Example
+   
+  ![DIRGAHAYU INDONESIAKU](https://cdn.discordapp.com/attachments/733256504794152990/744766292673953853/20200817_095551.jpg)
+
   **A Music Discord Bot example written in javascript using discord.js**
   
   Made with ♥ by Client Developer staff: 
