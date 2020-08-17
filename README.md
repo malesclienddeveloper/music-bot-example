@@ -4,7 +4,7 @@
   Made with ♥ by Client Developer staff: 
   - Staff #1 -> [rayhantech](https://github.com/rayhantech)
   - Staff #2 -> [rnggadosen._](https://github.com/RanggaGultom)
-  - Staff #6 -> [Med](https://github.com/Mednoob)
+  - Staff #6 -> [Mednoob](https://github.com/Mednoob)
   
   Contributors:
   - @everyone for supporting Client Developer
@@ -22,6 +22,7 @@
   
 # Contact Us
  [Discord](https://clientdev.glitch.me/discord)
+ [Whatsapp](https://chat.whatsapp.com/FRbJk3AIMwL2pKe95IrBwX)
  
 # Support Us
 [Saweria](https://clientdev.glitch.me/donate/saweria)
