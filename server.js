@@ -11,6 +11,14 @@ const db = new Map()
 const fs = require("fs")
 const snek = require("node-superfetch")
 
+const express = require("express");
+const app = express();
+app.get("/", (request, response) => {
+  console.log("Pinging");
+  response.sendStatus(200);
+})
+app.listen(process.env.PORT);
+
 const { prefix } = require("./config.json")
 client.aliases = new discord.Collection();
 client.commands = new discord.Collection();
