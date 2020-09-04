@@ -40,9 +40,11 @@ const commandFile = fs.readdirSync("./commands").filter(file => file.endsWith(".
 commandFile.forEach(file => {
   const command = require(`./commands/${file}`)
   client.commands.set(command.name, command);
+  if(command.alias) {
   command.alias.forEach(alias => {
   client.aliases.set(alias, command);
   })
+  }
   console.log(`Loaded command ${command.name} with alias(es) => ${command.alias}`)
   })
 
