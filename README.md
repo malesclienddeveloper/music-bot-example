@@ -5,7 +5,7 @@
   Made with ♥ by Client Developer staff: 
   - Staff #1 -> [rayhantech](https://github.com/rayhantech)
   - Staff #2 -> [rnggadosen._](https://github.com/RanggaGultom)
-  - Staff #6 -> [Mednoob](https://github.com/Mednoob)
+  - Ex-Staff -> [Mednoob](https://github.com/Mednoob)
   
   Contributors:
   - @everyone for supporting Client Developer
