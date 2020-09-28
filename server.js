@@ -97,4 +97,4 @@ You can type ${prefix}help to get bot commands list`)
 }) 
 
 //insert token at .env first
-client.login(process.env.TOKEN)
+client.login(process.env.756924146947981402)
