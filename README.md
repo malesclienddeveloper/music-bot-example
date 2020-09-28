@@ -22,11 +22,11 @@
   [Youtube Video](https://youtu.be/rigmqMtWfzM)
   
 # Contact Us
- [Discord](https://clientdev.glitch.me/discord)
+ [Discord](https://clidev.my.id/discord)
  
  [Whatsapp](https://chat.whatsapp.com/FRbJk3AIMwL2pKe95IrBwX)
  
 # Support Us
-[Saweria](https://clientdev.glitch.me/donate/saweria)
+[Saweria](https://clidev.my.id/donate/saweria)
 
-[Trakteer](https://clientdev.glitch.me/donate/trakteer)
+[Trakteer](https://clidev.my.id/donate/trakteer)
